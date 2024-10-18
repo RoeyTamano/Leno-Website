@@ -59,3 +59,5 @@ The `script.js` file contains:
 ## 🤝 Contributing
 
 Want to improve Leno? Feel free to fork the repository and submit a pull request. All contributions are welcome!
+![image](https://github.com/user-attachments/assets/e750958f-a9f2-4f1b-a02d-81ce48888aba)
+
